@@ -1,4 +1,3 @@
-# data-portfolio
 # About Me
 
 Amanda King is a part-time Master of Public Management candidate at Carnegie Mellon University Heinz College of Information Systems and Public Policy. Her preferred pronouns are she, her, and hers. For the last seven years, she's worked full-time in public relations and journalism. 

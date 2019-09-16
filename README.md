@@ -49,8 +49,8 @@ After the critique, I sketched two variations (pictured below) of the redesigned
 ![Sketch 1](https://github.com/amandaking722/data-portfolio/blob/master/IMG-9692.jpg)
 [1]: (https://github.com/amandaking722/data-portfolio/blob/master/IMG-9692.jpg)
 
-![Sketch 2](https://github.com/amandaking722/data-portfolio/blob/master/IMG-9693.jpg)
-[2]: (https://github.com/amandaking722/data-portfolio/blob/master/IMG-9693.jpg)
+![Sketch of horizontal graph](https://github.com/amandaking722/data-portfolio/blob/master/IMG-9693.jpg)
+![sketch of horizontal graph][sketch 2]
 
 I presented the wireframes to two potential users. One user said he thought the vertical bar chart was more effective. In addition, the other user recommended listing the countries by height. I then integrated their feedback into a second round of redesign by transforming the horizontal bars into a vertical orientation, and ordering the countries by ascending height instead of by alphabetical listing. This created a more dramatic effect of the increase in share of pre-tax income.
 

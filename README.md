@@ -46,7 +46,9 @@ Next, I critiqued the graphic focusing on what worked, and didn't work so well. 
 
 After the critique, I sketched two variations (pictured below) of the redesigned bar chart by making one vertical, and one horizontal, but with a different color scheme, title, description and some other minor variations.
 
-![Sketch 1](images/IMG-9692.jpg)
+![Sketch 1](/images/IMG-9692.jpg)
+
+Format: ![Sketch 1](/IMG-9692.jpg)
 
 I presented the wireframes to two potential users. One user said he thought the vertical bar chart was more effective. In addition, the other user recommended listing the countries by height. I then integrated their feedback into a second round of redesign by transforming the horizontal bars into a vertical orientation, and ordering the countries by ascending height instead of by alphabetical listing. This created a more dramatic effect of the increase in share of pre-tax income.
 

@@ -11,7 +11,9 @@ My final project will visualize the effects of climate change on our planet, and
  
 3. Resolution
 
+## Initial Sketches
 
+![Final Project - Sketch 1](/IMG-9775.jpg)
 
 ## The Data 
 

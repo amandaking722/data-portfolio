@@ -60,5 +60,5 @@ This chart provides a more interactive way to represent the data by allowing the
 
 ## Final Project - Part One
 
-[View my outline and sketches.] (https://amandaking722.github.io/data-portfolio/final_project_amanda_king)
+[View my outline and sketches.](https://amandaking722.github.io/data-portfolio/final_project_amanda_king)
  

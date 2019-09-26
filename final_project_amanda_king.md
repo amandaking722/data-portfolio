@@ -20,7 +20,7 @@ Specifically, my story will show how increased carbon dioxide (CO2) emissions fr
 
 ## Initial Sketches
 
-![Sketch 1](/IMG-9775.jpg)
+![Sketch 1](/IMG-9775.JPG)
 
 ![Sketch 2](/co2-emissions-sketch.jpg)
 

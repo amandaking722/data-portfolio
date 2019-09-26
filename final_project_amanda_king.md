@@ -7,16 +7,16 @@ My final project will visualize the effects of climate change on our planet, and
 Specifically, my story will show how increased carbob dioxide (CO2) emissions from energy consumption have led to climate change. The major elements of my story will be the:
 
 1. Set-Up
-  a. The story will open with the start of the long-lived forcing of climate change–how humans have increased atmospheric carbon dioxide   (CO2) concentration more than one third since the Industrial Revolution. 
-  b. I'll show how energy consumption from 1990 to present day has increased CO2 emissions through a bar chart.
+* The story will open with the start of the long-lived forcing of climate change–how humans have increased atmospheric carbon dioxide   (CO2) concentration more than one third since the Industrial Revolution. 
+* I'll show how energy consumption from 1990 to present day has increased CO2 emissions through a bar chart.
   
 2. Conflict
-  a. In this section, we'll discuss and show the effects of climate change on our planet. This will highlight dynamic visuals of the need for the environmental movement.
-  b. I'll next reveal the grave impact of climate change by showing visuals of the fires in the Amazon and increased natural disasters, such as hurricanes.
+* In this section, we'll discuss and show the effects of climate change on our planet. This will highlight dynamic visuals of the need for the environmental movement.
+* I'll next reveal the grave impact of climate change by showing visuals of the fires in the Amazon and increased natural disasters, such as hurricanes.
  
 3. Resolution
-  a. Yet, it's not all grim. I'll then go into what people are doing to combat climate change, such as the Paris Climate Agreement and the youth climate strikes. Data on CA's plans to decrease greenhouse gas emissions 40% by 2030 will support this.
-  b. I'll conclude with a call to action that asks the audience to do something about global warming.
+* Yet, it's not all grim. I'll then go into what people are doing to combat climate change, such as the Paris Climate Agreement and the youth climate strikes. Data on CA's plans to decrease greenhouse gas emissions 40% by 2030 will support this.
+* I'll conclude with a call to action that asks the audience to do something about global warming.
 
 ## Initial Sketches
 

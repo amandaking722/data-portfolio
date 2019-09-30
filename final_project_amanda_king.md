@@ -46,8 +46,32 @@ I'll then conduct user research and incorporate their feedback into my project. 
 
 ### User Research Protocol  
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
+## Target Audience
+
+Through my online story, I hope to reach people interested in learning about the causes of climate change and its impacts, as well as those who want to take action to mitigate its impact. These could vary in age from teenagers to senior citizens.
+
+For user testing, I plan to interview my fiancé Josh, my colleague Aiswariya and my brother Matt. These individuals are all concerned about the effects of climate change and are taking action in either their personal and/or professional lives to decrease their carbon footprint. Aiswariya is a data scientist, so she will be helpful in providing feedback on the data visualizations. She also works in the energy sector and will understand the topic. Josh and Matt don't work in energy so i'm hoping they can provide feedback on anything that might be confusing, or needs elaborated on more.
+
+### Interview Script 
+
+1. Did you learn anything new? (Goal: Evaluate audience's takeaways)
+2. What is confusing, if anything? (Evaluate content)
+3. Should I improve any text, photography and/or data visualizations? (Improve content)
+4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
+
+## Mood Board
+
+Next, I created a mood board both identify examples of what has worked well when visualizing similar datasets, as well as any general themes in color, typography, or other elements.
+
+![Sketch 2](/co2-emissions-sketch.jpg)
+
+### Initial Wireframe
+
+### Interview Findings
+
+### Implemented Changes
+
+
 c. your interview script; 
 d. the findings from your interviews; and 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.

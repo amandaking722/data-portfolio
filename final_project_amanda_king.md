@@ -67,10 +67,7 @@ Next, I created a mood board (pictured below) to identify examples of what has w
 
 ## Initial Wireframes
 
-I created my wireframes using Balsamiq. In the below, I mocked up my text, images and used placeholder data visualizations.
-
-![Wireframes](/New Project.pdf)
-
+I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq. In the sketches, I mocked up my text, images and used placeholder data visualizations.
 
 ### Interview Findings
 

@@ -65,13 +65,29 @@ Next, I created a mood board (pictured below) to identify examples of what has w
 
 ![Mood Board](/Holly's Greenery Mood Board.png)
 
-### Initial Wireframe
+## Initial Wireframes
+
+I created my wireframes using Balsamiq. In the below, I mocked up my text, images and used placeholder data visualizations.
+
+![Wireframes](/New Project.pdf)
+
 
 ### Interview Findings
+
+1. Did you learn anything new? (Goal: Evaluate audience's takeaways)
+
+In general, Josh gave me a lot of great feedback. While he said he didn't learn anything new in terms of big picture, he learned about the specific data points I mentioned in my story.
+
+2. What is confusing, if anything? (Evaluate content)
+
+3. Should I improve any text, photography and/or data visualizations? (Improve content)
+Josh said he wanted to understand the data more. He also mentioned that I have a lot of text and recommended I added more visuals.
+
+4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
+
+Josh said he is already taking most of the steps I mentioned and he said he wants to see something that would make him feel invested in the steps. He recommended I add visuals to this section. He also advised me to make this section more exciting by using an impactful stat of say, how many plastic bottles go into the ocean each year. 
 
 ### Implemented Changes
 
 
-c. your interview script; 
-d. the findings from your interviews; and 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.

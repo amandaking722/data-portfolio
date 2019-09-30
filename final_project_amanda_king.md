@@ -78,13 +78,16 @@ In general, Josh gave me a lot of great feedback. While he said he didn't learn 
 2. What is confusing, if anything? (Evaluate content)
 
 3. Should I improve any text, photography and/or data visualizations? (Improve content)
-Josh said he wanted to understand the data more. He also mentioned that I have a lot of text and recommended I added more visuals.
+
+Josh said he wanted to understand the data more. He also mentioned that I have a lot of text and recommended I added more visuals. In addition, he thought my story title was too long.
 
 4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
 
 Josh said he is already taking most of the steps I mentioned and he said he wants to see something that would make him feel invested in the steps. He recommended I add visuals to this section. He also advised me to make this section more exciting by using an impactful stat of say, how many plastic bottles go into the ocean each year. 
 
 ### Implemented Changes
+
+In my revised wireframes, I shortened the title of my story by a few words.
 
 
 e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.

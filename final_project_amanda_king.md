@@ -61,9 +61,9 @@ For user testing, I plan to interview my fiancé Josh, my colleague Aiswariya an
 
 ## Mood Board
 
-Next, I created a mood board both identify examples of what has worked well when visualizing similar datasets, as well as any general themes in color, typography, or other elements.
+Next, I created a mood board (pictured below) to identify examples of what has worked well when visualizing similar datasets, as well as themes in color, typography, and visuals. The color palette via ColorBrewer reflects cool, earthy tones. The photos from left to right show industry emissions, what appears to be a gas pipeline in a desserted, dry area, an electric vehicle and youth marching for action against climate change. They are all very dymanic, and represent the tone of my story. In the data visualization, I found the pie chart with the infographics to be visually appealing and easy to read.
 
-![Sketch 2](/co2-emissions-sketch.jpg)
+![Mood Board](/Holly's Greenery Mood Board.png)
 
 ### Initial Wireframe
 

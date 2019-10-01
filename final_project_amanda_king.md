@@ -75,15 +75,20 @@ I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq
 
 In general, Josh gave me a lot of great feedback. While he said he didn't learn anything new in terms of big picture, he learned about the specific data points I mentioned in my story.
 
+I was surprised to see that Aiswariya learned two new things: The timeline of responses to climate change (a great addition), and the
+he emissions bar chart from 1990-2017, which helped to put the issue in perspective. She recommended that while the stories of Greenland’s icecaps melting and the Amazon fires are critical to explaining climate change, they are stories that we saw on the news a lot. If time permits, she said she recommends including more unpopular yet hard-hitting facts about climate change.
+
 2. What is confusing, if anything? (Evaluate content)
 
 3. Should I improve any text, photography and/or data visualizations? (Improve content)
 
-Josh said he wanted to understand the data more. He also mentioned that I have a lot of text and recommended I added more visuals. In addition, he thought my story title was too long.
+Josh and Aiswariya both said they wanted to understand the data more. Specifically, they found it difficult to understand the charts in the absence of descriptions. Aiswariya recommended, "If you could add a colored version of both charts with labels and scales, that would increase the readability of the charts."
+
+Josh also mentioned that I have a lot of text and recommended I added more visuals. Aiswariya had specific feedback on this: "The first picture is always the hook! I recommend a more compelling picture right at the beginning. The factory smoke picture and related content would follow this “hook” image."
 
 4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
 
-Josh said he is already taking most of the steps I mentioned and he said he wants to see something that would make him feel invested in the steps. He recommended I add visuals to this section. He also advised me to make this section more exciting by using an impactful stat of say, how many plastic bottles go into the ocean each year. 
+Josh said he is already taking most of the steps I mentioned and he said he wants to see something that would make him feel invested in the steps. He recommended I add visuals to this section. He also advised me to make this section more exciting by using an impactful stat of say, how many plastic bottles go into the ocean each year. However, Aiswariya said felt that the CTA steps were simple, yet practical.
 
 ### Implemented Changes
 

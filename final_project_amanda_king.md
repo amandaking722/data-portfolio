@@ -74,23 +74,23 @@ I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq
 
 ### Interview Findings
 
-1. Did you learn anything new? (Goal: Evaluate audience's takeaways)
+#### Did you learn anything new? (Goal: Evaluate audience's takeaways)
 
 In general, Josh gave me a lot of great feedback. While he said he didn't learn anything new in terms of big picture, he learned about the specific data points I mentioned in my story.
 
 I was surprised to see that Aiswariya learned two new things: The timeline of responses to climate change (a great addition), and thehe emissions bar chart from 1990-2017, which helped to put the issue in perspective. She recommended that while the stories of Greenland’s icecaps melting and the Amazon fires are critical to explaining climate change, they are stories that we saw on the news a lot. If time permits, she said she recommends including more unpopular yet hard-hitting facts about climate change.
 
-2. What is confusing, if anything? (Evaluate content)
+#### What is confusing, if anything? (Evaluate content)
 
 Josh and Aiswariya said the visualizations were confusing without the actual data and descriptions.
 
-3. Should I improve any text, photography and/or data visualizations? (Improve content)
+#### Should I improve any text, photography and/or data visualizations? (Improve content)
 
 Josh and Aiswariya both said they wanted to understand the data more. Specifically, they found it difficult to understand the charts in the absence of descriptions. Aiswariya recommended, "If you could add a colored version of both charts with labels and scales, that would increase the readability of the charts."
 
 Josh also mentioned that I have a lot of text and recommended I added more visuals. Aiswariya had specific feedback on this: "The first picture is always the hook! I recommend a more compelling picture right at the beginning. The factory smoke picture and related content would follow this “hook” image." She also mentioned, "Stories like Greenland’s ice caps melting and Amazon fires, while critical to explaining climate change, are stories that we were on the news a lot. If time permits, I’d recommend including more unpopular yet hard-hitting facts about climate change." In addition, Matt let me know that "bar" was misspelled in my graph. Overall, he really liked the sketches.
 
-4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
+#### Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
 
 Josh said he is already taking most of the steps I mentioned and he said he wants to see something that would make him feel invested in the steps. He recommended I add visuals to this section. He also advised me to make this section more exciting by using an impactful stat of say, how many plastic bottles go into the ocean each year. However, Aiswariya said she felt that the CTA steps were simple, yet practical.
 
@@ -98,9 +98,9 @@ Josh said he is already taking most of the steps I mentioned and he said he want
 
 In my revised wireframes (below), I made edits to the text and photos. In the text, I shortened the title of my story by a few words and fixed the aforementioned spelling error. I decided to not follow Josh's advice in eliminating the text. I think it would "oversimplify" this topic, that needs some context since it's science-related. 
 
-I took Aiswariya's advice to add photography and text about more unknown evidence of climate change. I added a photo of flooding along the Arkansas River and accompanying text about increased numbers of intense rainfall and record high temperature events. I also added a more dynamic photo of glaciers melting right at the beginning of teh story.
+I took Aiswariya's advice to add photography and text about more unknown evidence of climate change. I added a photo of flooding along the Arkansas River and accompanying text about increased numbers of intense rainfall and record high temperature events. I also added a more dynamic photo of glaciers melting right at the beginning of the story.
 
-Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 in order to eliminate confusion over the data. I plan to add labels and a sub-header in Part III.
+Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 in order to eliminate confusion over the placeholder data. I plan to add labels and a sub-header in Assignment Part III.
 
 ![Revised WireFrame](/Final Project - Draft - Revised.png)
 

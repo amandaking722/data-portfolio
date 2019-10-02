@@ -46,29 +46,30 @@ I'll then conduct user research and incorporate their feedback into my project. 
 
 ### User Research Protocol  
 
-## Target Audience
+#### Target Audience
 
 Through my online story, I hope to reach people interested in learning about the causes of climate change and its impacts, as well as those who want to take action to mitigate its impact. These could vary in age from teenagers to senior citizens.
 
 For user testing, I plan to interview my fiancé Josh, my colleague Aiswariya and my brother Matt. These individuals are all concerned about the effects of climate change and are taking action in either their personal and/or professional lives to decrease their carbon footprint. Aiswariya is a data scientist, so she will be helpful in providing feedback on the data visualizations. She also works in the energy sector and will understand the topic. Josh and Matt don't work in energy so i'm hoping they can provide feedback on anything that might be confusing, or needs elaborated on more.
 
-### Interview Script 
+#### Interview Script 
 
 1. Did you learn anything new? (Goal: Evaluate audience's takeaways)
 2. What is confusing, if anything? (Evaluate content)
 3. Should I improve any text, photography and/or data visualizations? (Improve content)
 4. Would you take any of the steps mentioned at the end to combat climate change? (Evaluate Call-to-Action)
 
-## Mood Board
+### Mood Board
 
 Next, I created a mood board (pictured below) to identify examples of what has worked well when visualizing similar datasets, as well as themes in color, typography, and visuals. The color palette via ColorBrewer reflects cool, earthy tones. The photos from left to right show industry emissions, what appears to be a gas pipeline in a desserted, dry area, an electric vehicle and youth marching for action against climate change. They are all very dymanic, and represent the tone of my story. In the data visualization, I found the pie chart with the infographics to be visually appealing and easy to read.
 
 ![Mood Board](/Holly's Greenery Mood Board.png)
 
-## Initial Wireframes
+### Initial Wireframes
 
-I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq. In the sketches, I mocked up my text, images and used placeholder data visualizations.
+I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq. In my first sketch (pictured below), I mocked up my text, images and used placeholder data visualizations.
 
+![First Sketch](/Final Project - Draft.png)
 
 
 ### Interview Findings

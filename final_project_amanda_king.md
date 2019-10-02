@@ -69,6 +69,8 @@ Next, I created a mood board (pictured below) to identify examples of what has w
 
 I created [my wireframes](https://balsamiq.cloud/spyvd1y/phpvtm5) using Balsamiq. In the sketches, I mocked up my text, images and used placeholder data visualizations.
 
+
+
 ### Interview Findings
 
 1. Did you learn anything new? (Goal: Evaluate audience's takeaways)
@@ -93,8 +95,11 @@ Josh said he is already taking most of the steps I mentioned and he said he want
 
 ### Implemented Changes
 
-In my revised wireframes, I made edits to the text and photos. In the text, I shortened the title of my story by a few words and fixed the aforementioned spelling error. I decided to not follow Josh's advice in eliminating the text. I think it would "oversimplify" this topic, that needs some context since it's science-related. 
+In my revised wireframes (below), I made edits to the text and photos. In the text, I shortened the title of my story by a few words and fixed the aforementioned spelling error. I decided to not follow Josh's advice in eliminating the text. I think it would "oversimplify" this topic, that needs some context since it's science-related. 
 
 I took Aiswariya's advice to add photography and text about more unknown evidence of climate change. I added a photo of flooding along the Arkansas River and accompanying text about increased numbers of intense rainfall and record high temperature events. I also added a more dynamic photo of glaciers melting right at the beginning of teh story.
 
 Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 in order to eliminate confusion over the data. I plan to add labels and a sub-header in Part III.
+
+![Revised WireFrame](/Final Project - Draft - Revised.png)
+

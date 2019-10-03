@@ -102,5 +102,5 @@ I took Aiswariya's advice to add photography and text about more unknown evidenc
 
 Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 and the line graph of California's Plan to Decrease Greenhouse Gas Emissions by 40% by 2030 in order to eliminate confusion over the placeholder data. I plan to add labels and a sub-header to the bar graph in Assignment Part III.
 
-![Revised WireFrame](/Final Project - Draft - Revised (1).png)
+![Revised WireFrame](/revised-project.png)
 

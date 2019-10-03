@@ -100,7 +100,7 @@ In my revised wireframes (below), I made edits to the text and photos. In the te
 
 I took Aiswariya's advice to add photography and text about more unknown evidence of climate change. I added a photo of flooding along the Arkansas River and accompanying text about increased numbers of intense rainfall and record high temperature events. I also added a more dynamic photo of glaciers melting right at the beginning of the story.
 
-Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 in order to eliminate confusion over the placeholder data. I plan to add labels and a sub-header in Assignment Part III.
+Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions From 1990-2017 and the line graph of California's Plan to Decrease Greenhouse Gas Emissions by 40% by 2030 in order to eliminate confusion over the placeholder data. I plan to add labels and a sub-header to the bar graph in Assignment Part III.
 
-![Revised WireFrame](/Final Project - Draft - Revised.png)
+![Revised WireFrame](/Final Project - Draft - Revised (1).png)
 

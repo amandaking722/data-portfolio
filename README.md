@@ -60,7 +60,7 @@ My redesigned data visualization (pictured below) was created using Infogram. In
 
 This chart provides a more interactive way to represent the data by allowing the user to toggle between the 1980 and 2010 data. This eliminates the confusion the hover tool on the Bloomberg visualization caused. I didn't even realize it was a feature until I sat with the chart for a few minutes. I also felt there wasn't a need for a key with this new experience. In addition, I decided to include Italy, another major economy that I thought shouldn't be negated. I attempted to include Brazil as well, but the 1980 data was not available. The data is represented by only green bars. I attempted to display a different title that readers could easily tie to the chart. I left off the note since it doesn't make sense without the associated copy. Overall, I think it provides a more interactive experience for the user and shows the increase in income more dramatically.
 
-## Final Project - Part One
+## Final Project
 
-[View my outline and sketches.](https://amandaking722.github.io/data-portfolio/final_project_amanda_king)
+[View my data story.](https://amandaking722.github.io/data-portfolio/final_project_amanda_king)
  

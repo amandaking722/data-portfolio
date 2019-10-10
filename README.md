@@ -12,7 +12,8 @@ As a communications professional, Amanda is hoping to supplement her writing wit
 
 1. [Check out my data visualization of Music Media by market share by year.](https://amandaking722.github.io/data-portfolio/music)
 
-2. <iframe title="Average Number of likes per Facebook post 2016" aria-label="Dot Plot" id="datawrapper-chart-FRra9" src="//datawrapper.dwcdn.net/FRra9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="236"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+2.
+<iframe title="Average Number of likes per Facebook post 2016" aria-label="Dot Plot" id="datawrapper-chart-FRra9" src="//datawrapper.dwcdn.net/FRra9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="236"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ## Assignment 2
 

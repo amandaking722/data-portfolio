@@ -104,3 +104,12 @@ Finally, I created the bar chart of U.S. Energy-Related Carbon Dioxide Emissions
 
 ![Revised WireFrame](/revised-project.png)
 
+## Part III - Final Deliverable
+
+Before finally inputting my content into Shorthand, I fine-tuned my call-to-action to only focus on energy-related CTAs. I also took Professor Goranson's advice to display data in additional ways (outside of bar and line graphs). The resulting circle cluster of carbon dioxide emissions by state was fun to put together, and I think it will resonate with the class during my final presentation.
+
+My final deliverable is the culmination of my work thus far including research, sketching, data cleaning, wireframing, designing visualizations and creatively laying out content. I needed to make adjustments along the way, including changing my source data. I learned that not all data is available on the U.S. EIA website. I also had to work through challenges of inputting my data into RAWGraphs. I learned several new tools through this process like Balsamiq and Shorthand. Wireframing was also fairly new to me.
+
+To conclude, it's no surprise i'm passionate about helping get us to a low carbon, sustainable energy future. And, I think my final deliverable shows that. I hope that it inspires my peers and others to reduce their carbon footprint. I also hope they learn something from my presentation, whether it be a historical fact or current emissions stat. 
+
+View my final project on [Shorthand.](https://carnegiemellon.shorthandstories.com/carbon-emissions/index.html)
